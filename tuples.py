@@ -15,7 +15,6 @@ ginger_ratio, cardamom_ratio = cardamom_ratio, ginger_ratio
 
 print(f"Ratio is G : {ginger_ratio} and C : {cardamom_ratio}")
 
-
 # membership 
 
-print(f"Is Ginger in my masala: {'Clove'in masala_spices}")
+print(f"Is Ginger in my masala: {'Clove'in masala_spices}") #It is case- sensitive  if it write in 
