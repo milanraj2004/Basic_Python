@@ -6,3 +6,4 @@ if snack == "cookies" or snack == "samosa":
     print(f"Great Choice !! Well serve you {snack}")
 else :
     print("Sorry We Only Serve Cookies and Sammosa With Tea")
+    print("Sorry We Only Serve Cookies and Sammosa With Tea")
