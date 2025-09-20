@@ -5,5 +5,6 @@ for name, age in staff:
     if age >= 18:
         print(f"{name}  is Eligble for training")
         break
+    # for else is liye use hota hai jb jb koi  aur condition nahi lgegi to
 else:
     print("No one is eligble for training")
