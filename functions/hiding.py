@@ -4,7 +4,6 @@ def getInput():
 
 def validateInput():
     print("Validating User Input")
-
 def saveTODatabase():
     print("Saving to Database")
 
