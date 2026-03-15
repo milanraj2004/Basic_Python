@@ -3,7 +3,7 @@ def update_order():
 
 
     def kitchen():
-        #nonlocal chai_type
+        nonlocal chai_type
         chai_type = "Adrak Elaichi"
         print(f"Inside kitchen: {chai_type}")
     kitchen()
