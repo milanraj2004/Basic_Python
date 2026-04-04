@@ -17,5 +17,5 @@ menu = [
 # BBQ_Ribs = [food for food in menu if "Food" in food]
 # print(BBQ_Ribs)
 
-milan = [food for food in menu if len(food) > 20]
+milan = [food for food in menu if len(food) < 20]
 print(milan)
