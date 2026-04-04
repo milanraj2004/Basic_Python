@@ -6,4 +6,5 @@ tea_prices_inr = {
 ""
 "All Prices need to be converted to USD with a conversion rate of 1 INR = 0.012 USD"
 ""
-tea_prices
+tea_prices_usd = {tea:price * 80 for tea,price in tea_prices_inr.items() }
+print(tea_prices_usd)
