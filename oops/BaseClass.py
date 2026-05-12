@@ -17,6 +17,7 @@ class Milan:
 #     def __init__(self, type_, strength, level):
 #         Milan.__init__(self, type_, strength)
 #         self.level = level
+#
 
 
 class Delhi(Milan):
