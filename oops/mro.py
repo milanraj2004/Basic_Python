@@ -14,3 +14,4 @@ cup = D()
 
 print(cup.label)
 print(D.__mro__)
+# Method Resoultion Order
